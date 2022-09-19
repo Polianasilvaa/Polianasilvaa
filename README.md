@@ -1,0 +1,5 @@
+-#Sobre mim 
+- meu email de contato e @poliana.jeaneda.silva@escola.pr.gov.br
+-   👋 ola, meu nome e @Polianasilvaa
+- 👀 eu estou interessada em aprender novas linguagens.
+- 🌱 eu estou aprendendo a programar recentemente de JavaScript e Scratch 
